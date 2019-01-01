@@ -1,6 +1,6 @@
 package com.demo.config;
 
-import org.codehaus.plexus.component.annotations.Component;
+//import org.codehaus.plexus.component.annotations.Component;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
